@@ -1,0 +1,26 @@
+{
+  "name": "pnpm-react",
+  "version": "1.0.0",
+  "description": "create project test demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Liny777",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.20.7",
+    "@babel/core": "^7.20.12",
+    "@babel/preset-env": "^7.20.2",
+    "@types/classnames": "^2.3.1",
+    "classnames": "^2.3.2",
+    "husky": "^8.0.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "^5.0.1"
+  },
+  "dependencies": {
+    "pnpm": "^7.25.0"
+  }
+}
